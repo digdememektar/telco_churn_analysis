@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis | SQL & Python 💻🐍
+# Telco Customer Churn Analysis | SQL & Python 
 
 Bu çalışma, Kaggle’daki **Telco Customer Churn** verisi üzerinden yaptığım çift yönlü bir analiz pratiğidir.  
 Amacım aynı datayı hem **SQL** hem **Python (Pandas)** tarafında ele alarak iki farklı analiz dilinin düşünme şeklini karşılaştırmaktı.
